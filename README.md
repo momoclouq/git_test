@@ -1,0 +1,1 @@
+This is Minh's first git project!
